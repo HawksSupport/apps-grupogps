@@ -1,0 +1,17 @@
+{
+  "apk": {
+    "url": "https://raw.githubusercontent.com/HawksSupport/apps-fortman/master/guardia/update.apk",
+    "checksum": "D013521070D9BDE56BD3167D504EA16B6C23BC4F30BDC9210C904B2C3839FBAD",
+    "file": "update.apk"
+  },
+  "app": {
+    "client": "fortman",
+    "name": "SafeGuard Agente",
+    "package": "com.hawkstec.app.demo",
+    "version": {
+      "name": "1.0.6",
+      "code": 10006
+    },
+    "provider_authority": "com.hawkstec.app.demo.apkupdater.provider"
+  }
+}
